@@ -1,0 +1,1 @@
+cmd='C:/Esp/ESP-IDF/.espressif/tools/cmake/3.16.4/bin/cmake.exe;-DSDKCONFIG=C:/Esp/espidf/examples/system/ota_example/advanced_https_ota/sdkconfig;-DIDF_PATH=C:/Esp/espidf;-DIDF_TARGET=esp32s2;-DPYTHON_DEPS_CHECKED=1;-DPYTHON=python;-DEXTRA_COMPONENT_DIRS=C:/Esp/espidf/components/bootloader;-DLEGACY_INCLUDE_COMMON_HEADERS=;-GNinja;<SOURCE_DIR><SOURCE_SUBDIR>'

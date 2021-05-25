@@ -1,0 +1,6 @@
+source "C:/Esp/espidf/components/app_update/Kconfig.projbuild"
+source "C:/Esp/espidf/components/bootloader/Kconfig.projbuild"
+source "C:/Esp/espidf/components/esptool_py/Kconfig.projbuild"
+source "C:/Esp/espidf/components/partition_table/Kconfig.projbuild"
+source "C:/Esp/espidf/examples/system/ota_example/advanced_https_ota/main/Kconfig.projbuild"
+source "C:/Esp/espidf/examples/common_components/protocol_examples_common/Kconfig.projbuild"
